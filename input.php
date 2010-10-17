@@ -1,5 +1,6 @@
 #!/usr/bin/env php
 <?php
+# keyboard input function 
 function keyinput()
 {
 $in=fopen("php://stdin","r");
